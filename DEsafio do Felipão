@@ -1,0 +1,58 @@
+let Thor 
+let xp = 3000
+
+switch (xp) {
+    case value: xp < 1000 
+    console.log ("Nível ferro:");
+
+    break;
+
+    case value: xp < 1000 === 2000
+    console.log ("Nível bronze:");
+
+    break;
+
+    case value: xp < 2000 === 5000
+    console.log("Nível prata:");
+
+    break;
+
+    case value: xp < 6000 === 7000
+    console.log("Nível ouro:");
+
+    break;
+
+    case value: xp < 7000 ===8000
+    console.log ("Nível platina:");
+
+    break;
+    
+    case value: xp < 8000 ===9000
+    console.log ("Nível ascendente:")
+
+    break;
+
+    case value: xp < 9000 === 10000
+    console.log ("Nível imortal:");
+
+    break;
+
+    case value: xp <= 10001
+    console.log ("Nível radiante:")
+    break;
+    default:
+
+    console.log ("Nível do heroi "+ Thor + xp);
+
+
+
+
+
+
+
+}
+
+
+
+
+
